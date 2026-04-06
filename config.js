@@ -16,15 +16,11 @@ global.isBaileysFail = false;
 global.defaultLenguaje = 'es';
 
 global.owner = [
-  ['5219996125657', '👑 Propietario 👑', true],
-  ['5492916450307'],
-  ['5493794297363'],
-  ['59169082575'],
-  ['595972184435'],
-  ['5215533827255']
+  ['919243003942', '👑 Propietario 👑', true],
+  ['916387038928']
 ];
 
-global.suittag = ['5219993404349'];
+global.suittag = ['916387038928'];
 global.prems = [];
 
 // Base Rest Api
@@ -32,11 +28,11 @@ global.BASE_API_DELIRIUS = "https://delirius-apiofc.vercel.app";
 
 global.packname = 'Sticker';
 global.author = 'BrunoSobrino';
-global.wm = 'The Mystic - Bot';
-global.titulowm = 'Mystic Bot';
-global.titulowm2 = `Mystic Bot`
-global.igfg = 'The Mystic';
-global.wait = '*_[ ⏳ ] Cargando..._*';
+global.wm = 'The luffy - Bot';
+global.titulowm = 'luffy Bot';
+global.titulowm2 = `luffy Bot`
+global.igfg = 'The luffy';
+global.wait = '*_[ ⏳ ] wait.._*';
 
 global.imagen1 = fs.readFileSync('./src/assets/images/menu/languages/es/menu.png');
 global.imagen2 = fs.readFileSync('./src/assets/images/menu/languages/pt/menu.png');
@@ -59,12 +55,12 @@ global.wm2 = `${dia} ${fecha}\nThe Mystic - Bot`;
 global.gt = 'The Mystic - Bot';
 global.mysticbot = 'The Mystic - Bot';
 global.channel = 'https://whatsapp.com/channel/0029Vaein6eInlqIsCXpDs3y';
-global.md = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD';
-global.mysticbot = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD';
-global.waitt = '*_[ ⏳ ] Cargando..._*';
-global.waittt = '*_[ ⏳ ] Cargando..._*';
-global.waitttt = '*_[ ⏳ ] Cargando..._*';
-global.nomorown = '5219993404349';
+global.md = 'https://github.com/nityamsingh';
+global.mysticbot = 'https://github.com/nityamsingh';
+global.waitt = '*_[ ⏳ ] wait..._*';
+global.waittt = '*_[ ⏳ ] wait.._*';
+global.waitttt = '*_[ ⏳ ] wait._*';
+global.nomorown = '916387038928';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';
